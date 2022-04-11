@@ -20,7 +20,8 @@ public class Get_1 {
 	System.out.println("Code hoga:"+Variable2.getStatusCode());
 	
 	System.out.println("Status line hoga:"+Variable2.getStatusLine());
-	
+		
+	System.out.println("Bhai ab to GitHub bhi ho gya");	
 	
 	}
 }
